@@ -58,11 +58,13 @@ Execute the programs and publish them.
 ~~~
 
 ## OUTPUT
-![Uploading Screenshot 2025-12-11 223909.png…]()
-![Uploading Screenshot 2025-12-11 223923.png…]()
-![Uploading Screenshot 2025-12-11 223935.png…]()
-![Uploading Screenshot 2025-12-11 223944.png…]()
-![Uploading Screenshot 2025-12-11 223952.png…]()
+<img width="1918" height="1024" alt="Screenshot 2025-12-11 223909" src="https://github.com/user-attachments/assets/9042e0d9-d83a-4a0f-8c3c-09d0a2d69fcf" />
+<img width="1854" height="950" alt="Screenshot 2025-12-11 223923" src="https://github.com/user-attachments/assets/1b29d523-b74b-4dc1-bd23-f48fb5b8db49" />    
+<img width="1760" height="985" alt="Screenshot 2025-12-11 223935" src="https://github.com/user-attachments/assets/758fed88-4ef0-4e9e-a9fa-2af8a520bc80" />
+<img width="1844" height="936" alt="Screenshot 2025-12-11 223944" src="https://github.com/user-attachments/assets/746cb003-7a4e-4ef0-bc84-84a78fc14420" />
+<img width="1855" height="942" alt="Screenshot 2025-12-11 223952" src="https://github.com/user-attachments/assets/3a7662b5-c58b-4ecc-ac97-583a0fd47475" />
+
+
 
 
 ## RESULT
